@@ -44,6 +44,8 @@
 	*	[C++]()
 
 9. Write a program to print the following pattern: 
+	*	[C]()
+	*	[C++]()
 
 ```c
 1
@@ -53,10 +55,11 @@
 1 2 3 4 5
 ```
 
-	*	[C]()
-	*	[C++]()
+	
 
 10. Write a program to print the following pattern: 
+	*	[C]()
+	*	[C++]()
 
 ```c
 1 
@@ -65,9 +68,6 @@
 4 4 4 4
 5 5 5 5 5
 ```
-
-	*	[C]()
-	*	[C++]()
 
 11. Write a program to accept 10 values in an integer array. Display the number of odd, even, and negative numbers. 
 
@@ -101,6 +101,9 @@
 	*	[C++]()
 
 17. Write a program to with the following menu to be displayed to the user. On selecting a choice display appropriate result. Number should be accepted from the user. 
+	
+	*	[C]()
+	*	[C++]()
 
 ```c
 ---- Menu ----
@@ -110,20 +113,21 @@
 4. Number in reverse order 
 ```
 	
-	*	[C]()
-	*	[C++]()
+	
 
 18. Write a program to perform the following operations on integer array of 10 elements. Accept the values from user. 
-
+	
+	*	[C]()
+	*	[C++]()
+	
 ```c
 ---- Menu ----
 1. Sort an array in ascending order 
 2. Display sum of all odd values stored in an array.
 3. Display number of even values stored in an array.
 ```
-
-	*	[C]()
-	*	[C++]()
+	
+	
 	  
 
 
