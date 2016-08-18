@@ -1,4 +1,4 @@
-# C/C++ Assignments for praticse purpose.
+# C/C++ Assignments for practice purpose.
 
 
 
