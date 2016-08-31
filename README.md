@@ -40,8 +40,10 @@
 
 8. Write a program to display all prime numbers between 50 and 150.
 
-	*	[C]()
-	*	[C++]()
+	*	[C](/C/ATPrimeNumber)
+	*	[C++](/CPP/ATPrimeNumber)
+	*	[Objective-C](/Objective-C/ATPrimeNumber)
+	*	[Swift](/Swift/ATPrimeNumber)
 
 9. Write a program to print the following pattern: 
 
