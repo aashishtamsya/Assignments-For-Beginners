@@ -1,11 +1,11 @@
-# C/C++ Assignments for practice purpose.
+# Assignments For Beginners in C, C++, Objective-C & Swift.
 
 
 
 1. Write a program to check whether an entered number is odd / even. 
 
-	*	[C]()
-	*	[C++]()
+	-	[C]()
+	-	[C++]()
 
 2. Write a program to find greater and smaller number from given two numbers.
 
@@ -44,8 +44,11 @@
 	*	[C++]()
 
 9. Write a program to print the following pattern: 
-	*	[C]()
-	*	[C++]()
+
+	*	[C](/C/ATPatternOne)
+	*	[C++](/CPP/ATPatternOne)
+	*	[Objective-C](/Objective-C/ATPatternOne)
+	*	[Swift](/Swift/ATPatternOne)
 
 ```c
 1
@@ -58,9 +61,12 @@
 	
 
 10. Write a program to print the following pattern: 
-	*	[C]()
-	*	[C++]()
 
+	*	[C](/C/ATPatternTwo)
+	*	[C++](/CPP/ATPatternTwo)
+	*	[Objective-C](/Objective-C/ATPatternTwo)
+	*	[Swift](/Swift/ATPatternTwo)
+	
 ```c
 1 
 2 2
