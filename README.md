@@ -4,8 +4,10 @@
 
 1. Write a program to check whether an entered number is odd / even. 
 
-	-	[C]()
-	-	[C++]()
+	*	[C](/C/ATEvenOdd)
+	*	[C++](/CPP/ATEvenOdd)
+	*	[Objective-C](/Objective-C/ATEvenOdd)
+	*	[Swift](/Swift/ATEvenOdd)
 
 2. Write a program to find greater and smaller number from given two numbers.
 
@@ -47,35 +49,39 @@
 
 9. Write a program to print the following pattern: 
 
+	```c
+	1
+	1 2
+	1 2 3
+	1 2 3 4
+	1 2 3 4 5
+	```
+	
 	*	[C](/C/ATPatternOne)
 	*	[C++](/CPP/ATPatternOne)
 	*	[Objective-C](/Objective-C/ATPatternOne)
 	*	[Swift](/Swift/ATPatternOne)
 
-```c
-1
-1 2
-1 2 3
-1 2 3 4
-1 2 3 4 5
-```
+	
 
 	
 
-10. Write a program to print the following pattern: 
-
+10. Write a program to print the following pattern:
+ 	
+	```c
+ 	1 
+ 	2 2
+ 	3 3 3
+ 	4 4 4 4
+ 	5 5 5 5 5
+ 	```
+	
 	*	[C](/C/ATPatternTwo)
 	*	[C++](/CPP/ATPatternTwo)
 	*	[Objective-C](/Objective-C/ATPatternTwo)
 	*	[Swift](/Swift/ATPatternTwo)
 	
-```c
-1 
-2 2
-3 3 3
-4 4 4 4
-5 5 5 5 5
-```
+	
 
 11. Write a program to accept 10 values in an integer array. Display the number of odd, even, and negative numbers. 
 
@@ -109,31 +115,34 @@
 	*	[C++]()
 
 17. Write a program to with the following menu to be displayed to the user. On selecting a choice display appropriate result. Number should be accepted from the user. 
+
+	```c
+	---- Menu ----
+	1. Prime Factors 
+	2. Leap Year 
+	3. Sum of all digits 
+	4. Number in reverse order 
+	```
 	
 	*	[C]()
 	*	[C++]()
 
-```c
----- Menu ----
-1. Prime Factors 
-2. Leap Year 
-3. Sum of all digits 
-4. Number in reverse order 
-```
+
 	
 	
 
 18. Write a program to perform the following operations on integer array of 10 elements. Accept the values from user. 
+	```c
+	---- Menu ----
+	1. Sort an array in ascending order 
+	2. Display sum of all odd values stored in an array.
+	3. Display number of even values stored in an array.
+	```
 	
 	*	[C]()
 	*	[C++]()
 	
-```c
----- Menu ----
-1. Sort an array in ascending order 
-2. Display sum of all odd values stored in an array.
-3. Display number of even values stored in an array.
-```
+
 	
 	
 	  
