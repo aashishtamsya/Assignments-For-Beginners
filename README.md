@@ -13,22 +13,30 @@
 
 	*	[C]()
 	*	[C++]()
+	*	[Swift](/Swift/ATSmallerFromTwo)
+	
 
 3. Write a program to calculate sum of three numbers. 
 
 	*	[C]()
 	*	[C++]()
+	*	[Swift](/Swift/ATSumOfThree)
+	
 
 
 4. Write a program to calculate sum of first 10 odd numbers.
 
 	*	[C]()
 	*	[C++]()
+	*	[Swift](/Swift/ATSumOddNumbers)
+	
 
 5. Write a program to accept principal amount, rate of interest, and duration from the user. Display Interest Amount and Total Amount (Principal + Interest).
 
 	*	[C]()
 	*	[C++]()
+	*	[Swift](/Swift/ATInterestAmount)
+	
 
 6. Write a program to accept any number from the user. Display whether the number is divisible by 100 or not.
 
